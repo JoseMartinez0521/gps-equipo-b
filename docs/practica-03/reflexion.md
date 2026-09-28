@@ -49,5 +49,5 @@ solamente por opinión.
 - Controladores/
 - Documentacion/
 
-> Pendiente: sustituir las líneas de firma por las firmas/nombres reales de
 > los integrantes antes de cerrar el Pull Request.
+
