@@ -12,7 +12,7 @@ de Residencia Profesional del Instituto. Para determinar las funciones que
 faltan sería necesario comparar el comportamiento encontrado con el proceso
 institucional vigente y, si es posible, validar el sistema funcionando.
 
-**Firma:** ______________________________
+**Firma:** José Martinez
 
 ## 2. ¿Qué tan confiable es recuperar requerimientos a partir del código? ¿Qué se pierde?
 
@@ -27,7 +27,7 @@ restricciones del proceso y decisiones tomadas durante el desarrollo.
 Por eso, el código es una fuente importante de evidencia, pero no representa
 necesariamente la totalidad de los requerimientos originales.
 
-**Firma:** ______________________________
+**Firma:** Jehyson
 
 ## 3. Si los dos equipos obtienen listas distintas, ¿cómo decidirían cuál es la correcta?
 
@@ -39,7 +39,7 @@ La decisión debería basarse en evidencia reproducible del repositorio y en
 la validación con el proceso institucional, en lugar de elegir una lista
 solamente por opinión.
 
-**Firma:** ______________________________
+**Firma:** Myrka
 
 ## Evidencia consultada
 
